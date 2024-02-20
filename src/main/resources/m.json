@@ -1,0 +1,13 @@
+[
+  {"aid": "/test/endpoint/cust/val","tt": 23546,"hc": "200","mc": "0","d": "success"},
+  {"aid": "/test/endpoint/cust/val","tt": 23546,"hc": "500","mc": "0","d": "fail"},
+  {"aid": "/test/endpoint/cust/val","tt": 23546,"hc": "400","mc": "0","d": "badRequest"},
+  {"aid": "/test/endpoint/cust/val","tt": 23546,"hc": "417","mc": "0","d": "badRequest"},
+  {"aid": "/test/endpoint/cust/val","tt": 23546,"hc": "200","mc": "0","d": "success"},
+  {"aid": "/test/endpoint/cust/val","tt": 23546,"hc": "424","mc": "0","d": "badRequest"},
+  {"aid": "/test/endpoint/cust/val","tt": 23546,"hc": "200","mc": "0","d": "success"},
+  {"aid": "/test/endpoint/cust/val","tt": 23546,"hc": "500","mc": "0","d": "fail"},
+  {"aid": "/test/endpoint/cust/val","tt": 23546,"hc": "200","mc": "0","d": "success"},
+  {"aid": "/test/endpoint/cust/val","tt": 23546,"hc": "404","mc": "0","d": "notFound"}
+
+]
